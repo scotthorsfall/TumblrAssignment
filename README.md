@@ -20,6 +20,7 @@ Time spent: 7
 #### The following **additional** features are implemented:
 
 * Stored compose icons in an array
+* Added a longpress gesture recognizer to the compose icons and changed their alpha when pressed
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
