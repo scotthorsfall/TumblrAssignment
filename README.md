@@ -26,11 +26,11 @@ Please list two areas of the assignment you'd like to **discuss further with you
 1. If there's a better way to programmatically delay and animate the compose icons, rather than separate blocks
 2. Slight frusturation, but is there a way to move things around in the storyboard without them embedding into other views/scroll views?
 
-### Video Walkthrough 
+### Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='tumblr-walkthrough' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='tumblr-walkthrough.gif' title='Tumblr Walkthrough' width='' alt='Tumbl Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
